@@ -17,7 +17,7 @@ Plugin permettant de connecter un serveur NovaLife à TopServeur.
 
 2. Placez le plugin dans le dossier correspondant de votre serveur.
 
-4. Configurez le fichier `config` (votre token TopServeur, les gains aléatoir).
+4. Configurez le fichier `config.json` (votre token TopServeur, les gains aléatoir).
 
 5. Redémarrez votre serveur, et profitez 🎉
 
