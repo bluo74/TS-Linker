@@ -13,7 +13,7 @@ Plugin permettant de connecter un serveur NovaLife à TopServeur.
 ---
 
 ## 📥〃 Installation
-1. Téléchargez la dernière version :  
+1. Téléchargez la dernière version : [TS-Linker](https://github.com/bluo74/TS-Linker/releases/tag/v1.0.0)
 
 2. Placez le plugin dans le dossier correspondant de votre serveur.
 
